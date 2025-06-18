@@ -1,5 +1,5 @@
 # InjecTalon
-“A powerful, extensible, and automated SQL Injection reconnaissance tool built for bug bounty hunters and red teams.
+A powerful, extensible, and automated SQL Injection reconnaissance tool built for bug bounty hunters and red teams.
 # InjectaScan v1.0
 
 **Unified SQL Injection Testing Toolkit**  
